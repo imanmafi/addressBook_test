@@ -10,3 +10,18 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+body{
+  padding:510px;
+  background-color: tomato;
+  background-image: url('http://4.bp.blogspot.com/_KLJU3hHDGVM/TDXdyvH6mTI/AAAAAAAAC3g/W2AugAvKlJY/s1600/pixhome+free+wallpapers.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  color: white;
+}
+
+.jumbotron{
+   background-color:rgba(255,255,255,0.6);
+   text-align: center;
+}
